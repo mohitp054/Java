@@ -1,0 +1,9 @@
+public class Myclass{
+public String message;
+public int value;
+
+public Myclass(){
+this.message="Messi";
+this.value=10;
+}
+}
